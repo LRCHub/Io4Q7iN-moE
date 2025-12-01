@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ONE OK ROCK - This Can’t Be Us [Official Lyric Video]",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-01T19:40:17.402767Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ONE OK ROCK   「The Beginning」",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_ONE_OK_ROCK_「The_Beginning」_ONE_OK_ROCK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ONE OK ROCK - The Beginning",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_02_ONE_OK_ROCK_-_The_Beginning_ONE_OK_ROCK.txt"
+    }
+  ]
+}
